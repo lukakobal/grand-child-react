@@ -1,0 +1,23 @@
+.app {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.big-box {
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+.small-box {
+  width: 120px;
+  height: 120px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  border: 2px solid black;
+  font-weight: bold;
+}
